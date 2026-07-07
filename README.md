@@ -24,6 +24,20 @@ I enjoy creating software that solves real-world problems while continuously imp
 
 ---
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdetSimon&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdetSimon&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EdetSimon&theme=tokyonight)
+
+---
+
 ## 💼 Featured Projects
 
 ### 🌦️ Weather Application
@@ -101,6 +115,12 @@ Simple calculator built using Python and Tkinter.
 
 Repository:
 https://github.com/EdetSimon/Python-Calculator
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=EdetSimon&theme=tokyonight)
 
 ---
 
