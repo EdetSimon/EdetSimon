@@ -111,4 +111,4 @@ Email:
 Edetsimon011@gmail.com
 
 LinkedIn:
-[YOUR LINKEDIN HERE](https://www.linkedin.com/in/edetsimon/)
+[[YOUR LINKEDIN HERE](https://www.linkedin.com/in/edetsimon/)]
